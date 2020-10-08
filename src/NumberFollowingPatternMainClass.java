@@ -1,5 +1,3 @@
-package com.company;
-
 /*
 Given a pattern containing only I's and D's. I for increasing and D for decreasing.
 Devise an algorithm to print the minimum number following that pattern.
@@ -35,7 +33,7 @@ Output
 
 import java.util.*;
 
-public class NumberFollowingPatternMain {
+public class NumberFollowingPatternMainClass {
 
     public static void main(String[] args) {
         System.out.println("Enter the number of patterns");
@@ -72,3 +70,4 @@ public class NumberFollowingPatternMain {
 
     }
 }
+
